@@ -1,3 +1,8 @@
+### Hi there! I am Jumanboyev 👋
+
+# I'm a .NET Software Engineer.
+![snake gif](https://github.com/MuhammadKasimov/MuhammadKasimov/blob/output/github-contribution-grid-snake.svg)
+
 ### 👨‍💻 About me
 
 - 🌍 I'm .NET software developer from Uzbekistan.
@@ -7,8 +12,8 @@
 - 🔭 I working at Green Sale Company.
 - 🌱 Learning all about Open Source
 - 👯 I'm looking to collaborate on .NET project.
-- 💬 Ask me about .NET
 
+GitHub Stars 🌟
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=jumanboyev&show_icons=true&theme=dark)
 <!--
