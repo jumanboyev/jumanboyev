@@ -3,7 +3,7 @@
   Welcome to Abdurahmon Jumanboyev's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<br>
 
 # Hi there! I am Jumanboyev 👋
 
@@ -14,7 +14,7 @@
 - 🌍 I'm .NET software developer from Uzbekistan.
 - ⚙️ My specialty : `.NET`, `ASP.NET`, `WPF`, `PostgreSQL`
 - 💻 My programming languages : `C#`, `Python`,`C++`
-- ⚔️ Technogies and tools : `.net`, `git`, `postgre sql`
+- ⚔️ Technogies and tools : `.net`, `git`, `github`, `postgre sql`
 - 🔭 I working at Green Sale Company.
 - 🌱 Learning all about Open Source
 - 👯 I'm looking to collaborate on .NET project.
