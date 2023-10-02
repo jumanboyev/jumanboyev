@@ -28,8 +28,5 @@
 <p>
 @@ -95,5 +48,5 @@
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/abdurahmon-jumanboyev-1bbab0273/">
-        <img alt="Instagram"
-             src="https://img.shields.io/badge/Instagram-100000?style=flat&logo=instagram&logoColor=white"></a>
-             src="https://img.shields.io/badge/Instagram-6882045?style=flat&logo=instagram&logoColor=white"></a>
+    
 </p>
