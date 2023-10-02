@@ -26,7 +26,11 @@
 ### 🙋‍♂️ Connect with me
 
 <p>
-@@ -95,5 +48,5 @@
+  <a href="https://github.com/jumanboyev">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/abdurahmon-jumanboyev-1bbab0273/">
+        <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
     
 </p>
