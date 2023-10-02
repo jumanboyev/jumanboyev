@@ -1,4 +1,5 @@
 ### 👨‍💻 About me
+
 - 🌍 I'm .NET software developer from Uzbekistan.
 - ⚙️ My specialty : `.NET`, `ASP.NET`, `WPF`, `PostgreSQL`
 - 💻 My programming languages : `C#`, `Python`,`C++`
@@ -7,7 +8,9 @@
 - 🌱 Learning all about Open Source
 - 👯 I'm looking to collaborate on .NET project.
 - 💬 Ask me about .NET
-  
+
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=ShohruhUzDev&show_icons=true&theme=dark)
 <!--
 **jumanboyev/jumanboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
