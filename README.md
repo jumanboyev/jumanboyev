@@ -1,5 +1,13 @@
-### Hi there 👋
-
+###  About me
+- 🌍 I'm .NET software developer from Uzbekistan.
+- ⚙️ My specialty : `.NET`, `ASP.NET`, `MVC`, `WPF`, `PostgreSQL`
+- 💻 My programming languages : `.cs`, `.c`, `.py`
+- ⚔️ Technogies and tools : `.net`, `git`, `docker`, `rabbit mq`, `postgre sql`
+- 🔭 I work at Tubix and Digital Generation Uzbekistan.
+- 🌱 I'm currently learning mobile...
+- 🌱 Learning all about Open Source
+- 👯 I'm looking to collaborate on .NET project.
+- 💬 Ask me about .NET
 <!--
 **jumanboyev/jumanboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
