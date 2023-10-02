@@ -6,7 +6,6 @@
 ## Hi there! I am Jumanboyev 👋
 
 ### I'm a .NET Software Engineer.
-![snake gif](https://github.com/MuhammadKasimov/MuhammadKasimov/blob/output/github-contribution-grid-snake.svg)
 
 ### 👨‍💻 About me
 
@@ -18,11 +17,11 @@
 - 🌱 Learning all about Open Source
 - 👯 I'm looking to collaborate on .NET project.
 
-GitHub Stars 🌟
+###GitHub Stars ✨
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=jumanboyev&show_icons=true&theme=dark)
 <!--
-**jumanboyev/jumanboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jumanboyev/jumanboyev** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
