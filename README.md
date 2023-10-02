@@ -10,7 +10,7 @@
 - 💬 Ask me about .NET
 
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Abdurahmon Jumanboyev&show_icons=true&theme=dark)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=jumanboyev&show_icons=true&theme=dark)
 <!--
 **jumanboyev/jumanboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
